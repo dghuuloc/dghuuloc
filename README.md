@@ -63,12 +63,12 @@
 
 </p> -->
 
-### ❤ Views and Followers
+<!--### ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=dghuuloc">
 </a>
 <a href="https://github.com/dghuuloc?tab=followers"><img src="https://img.shields.io/github/followers/dghuuloc?label=Followers&style=social" alt="GitHub Badge"></a>
-
+-->
 
 <!--
 **dghuuloc/dghuuloc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
