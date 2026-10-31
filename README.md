@@ -3,15 +3,29 @@
 <!-- <h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Duong Huu Loc</h1>
 <!-- <h3 align="center">I'm a junior Software Developer from Vietnam</h3> -->
 
-<!--### 🙋‍♂️ &nbsp;About Me:
+### 🙋‍♂️ &nbsp;About Me:
 
+I am a software engineer expanding into AI/ML engineering, with a focus on understanding, implementing, and evaluating modern deep learning systems.
+
+My interests span practical AI systems and the underlying principles of machine learning, from neural network architectures to LLM training, inference, and reasoning.
+
+<!--
 - 🌱 I’m currently working as a Software Engineer at Vietnam
 - ⚡ I love solving problems and reading technical articles.
 - 🥅 Goals: Contribute more to Open-Source projects
 - 👨‍💻 All of my projects are available at **[My Repositories](https://github.com/dghuuloc?tab=repositories)**
 - 📫 How to reach me **dghuuloc@gmail.com** -->
 
-### 🛠 &nbsp;Languages and Tools :
+
+### 🔬 &nbsp;Technical Interests:
+
+* **Deep Learning:** Neural network architectures, backpropagation, and model training.
+* **LLMs & Transformers:** Attention mechanisms, positional embeddings, normalization, efficient inference, and Mixture-of-Experts.
+* **Reasoning Systems:** Tool use, execution feedback, verification, and autonomous problem-solving.
+* **AI Engineering:** Model integration, API design, testing, evaluation, and deployment.
+* **Open Source:** Building and improving reusable software through public development.
+
+### 🛠 &nbsp;Languages and Technologies :
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -54,6 +68,25 @@
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
 </p>
 -->
+
+### 🚀 &nbsp;Featured Projects
+
+Projects exploring AI engineering, modern neural network architectures, and reliable software systems.
+
+* **Transformer from Scratch** — Implement and study Transformer architectures using PyTorch.
+* **LLM Training & Evaluation Lab** — Explore training techniques, fine-tuning, inference, and evaluation.
+* **Reasoning Systems Lab** — Investigate tool use, execution feedback, verification, and task completion.
+* **Production AI Services** — Build testable, maintainable AI services with clear APIs and evaluation.
+
+### 📚 &nbsp;Engineering Philosophy
+
+I learn by connecting theory with implementation:
+
+1. Understand the mathematical foundations.
+2. Implement the underlying mechanisms.
+3. Test correctness and reproduce results.
+4. Run controlled experiments.
+5. Document findings, limitations, and improvements.
 
 <!--### Connect with me:
 <p align="left">
