@@ -2,13 +2,13 @@
 
 <!-- <h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Duong Huu Loc</h1>
 <!-- <h3 align="center">I'm a junior Software Developer from Vietnam</h3> -->
-
+<!--
 ### 🙋‍♂️ &nbsp;About Me:
 
 I am a software engineer expanding into AI/ML engineering, with a focus on understanding, implementing, and evaluating modern deep learning systems.
 
 My interests span practical AI systems and the underlying principles of machine learning, from neural network architectures to LLM training, inference, and reasoning.
-
+-->
 <!--
 - 🌱 I’m currently working as a Software Engineer at Vietnam
 - ⚡ I love solving problems and reading technical articles.
@@ -30,6 +30,9 @@ My interests span practical AI systems and the underlying principles of machine 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
 <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="fastapi" alt="fastapi" width="40" height="40"/>&nbsp; -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp; -->
@@ -69,6 +72,7 @@ My interests span practical AI systems and the underlying principles of machine 
 </p>
 -->
 
+<!--
 ### 🚀 &nbsp;Featured Projects
 
 Projects exploring AI engineering, modern neural network architectures, and reliable software systems.
@@ -87,6 +91,7 @@ I learn by connecting theory with implementation:
 3. Test correctness and reproduce results.
 4. Run controlled experiments.
 5. Document findings, limitations, and improvements.
+-->
 
 <!--### Connect with me:
 <p align="left">
